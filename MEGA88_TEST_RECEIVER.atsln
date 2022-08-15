@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "MEGA88_TEST_RECEIVER", "MEGA88_TEST_RECEIVER\MEGA88_TEST_RECEIVER.cppproj", "{93DDFD28-9AE2-4C9B-BC01-8158B31EF045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93DDFD28-9AE2-4C9B-BC01-8158B31EF045}.Debug|AVR.ActiveCfg = Debug|AVR
+		{93DDFD28-9AE2-4C9B-BC01-8158B31EF045}.Debug|AVR.Build.0 = Debug|AVR
+		{93DDFD28-9AE2-4C9B-BC01-8158B31EF045}.Release|AVR.ActiveCfg = Release|AVR
+		{93DDFD28-9AE2-4C9B-BC01-8158B31EF045}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
